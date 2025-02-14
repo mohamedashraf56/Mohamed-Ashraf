@@ -82,11 +82,13 @@
 
 
 <div align="center">
-  < Happy Coding! 😊
-As a Cloud & DevOps Engineer
+  < Happy Coding! 😊 />
+  < As a Cloud & DevOps Engineer  />
 
-![68747470733a2f2f73696d706c65636f64696e672e6465762f6173736574732f6465766f70732e676966](https://github.com/user-attachments/assets/180969f2-84a4-4032-934d-8f2cd9c9fd85)/>
+![68747470733a2f2f73696d706c65636f64696e672e6465762f6173736574732f6465766f70732e676966](https://github.com/user-attachments/assets/180969f2-84a4-4032-934d-8f2cd9c9fd85)
 </div>
+
+###
 
 
 
