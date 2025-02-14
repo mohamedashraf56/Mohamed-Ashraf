@@ -80,7 +80,9 @@
 
 ###
 
- ![image](https://github.com/user-attachments/assets/d2c84c80-a3ab-4f92-af33-92c18ba3e7f6)
-
 Happy Coding! 😊
 As a Cloud & DevOps Engineer
+
+![Uploading 68747470733a2f2f73696d706c65636f64696e672e6465762f6173736574732f6465766f70732e676966.gif…]()
+
+
