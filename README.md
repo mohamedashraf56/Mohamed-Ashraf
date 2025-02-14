@@ -1,12 +1,5 @@
 <img align="left" height="250" src="https://media.licdn.com/dms/image/v2/D4D22AQHiNpsN26QJgA/feedshare-shrink_1280/feedshare-shrink_1280/0/1720525376828?e=1742428800&v=beta&t=oL89HVtPdjYI6XTKr6jdLVAIympv__dHVHRuM1HPOTM"  />
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamedashraf56.mohamedashraf56&"  />
-</div>
-
-###
 
 
 <h3 align="center">How to reach me </h3>
@@ -33,6 +26,12 @@
 ###
 
 <h3 align="left">Cloud and DevOps Engineer</h3>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamedashraf56.mohamedashraf56&"  />
+</div>
 
 ###
 
