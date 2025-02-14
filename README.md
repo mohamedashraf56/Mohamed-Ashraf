@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">How to reach me </h2>
+<h3 align="center">How to reach me </h3>
 
 ###
 
